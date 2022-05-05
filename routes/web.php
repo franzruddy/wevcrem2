@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MenuController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/webcem',[MenuController::class,'index'])->name('cementerio_us.index');
+Route::get('/webcem/historia',[MenuController::class,'historia']);
+Route::get('/webcem/contactos',[MenuController::class,'contactos']);
+Route::get('/webcem/obituario',[MenuController::class,'obituario']);
+Route::get('/webcem/servicios',[MenuController::class,'servicios']);
+
+
+
