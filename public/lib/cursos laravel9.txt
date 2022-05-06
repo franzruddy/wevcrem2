@@ -1,0 +1,81 @@
+comandos de laravel 
+
+crear un proyecto simple en laravel
+	composer create-project laravel/laravel example-app(se escrive el nombre que quieres colocar en example-app)
+
+para crear un nuevo controlador
+	php artisan make:controller HomeController
+	php artisan make:controller CursoController	
+	
+cursos de ingles 
+https://us04web.zoom.us/j/9432918802?pwd=WGxDUWRKTVpqSVBmTE9CU0ROb1BOZz09
+
+
+
+https://www.youtube.com/channel/UC_TLn1T90jcpBplMv1T5jeg/playlists
+
+
+historia cementerio 
+El Cementerio General de la ciudad de Cochabamba, 
+se constituye en un bien patrimonial de la comunidad, 
+porque conserva los valores espirituales de las familias, 
+la memoria de todos los actores notables y otros no tanto, 
+que escribieron alguna página gloriosa o rutinaria del transcurrir urbano.
+
+Cuenta con Mausoleos y bloques de nichos. 
+Además una capilla de estilo moderno y sencillo 
+con cúpulas y arcos que la hacen muy llamativa.
+El cementerio general de Cochabamba actualmente está instalado 
+aproximadamente sobre 16 hectáreas de terreno, 
+cuenta con un Plan Maestro para su organización y 
+desarrollo posterior y está ocupado por 8.555 criptas de los enterratorios, 
+14.084 de nichos a perpetuidad y 704 cenizarios, 
+varios sectores de mausoleos distribuidos en 11 cuarteles administrados por el Municipio.
+
+El cementerio contiene 3 circuitos para ser visitados:
+
+<strong>Circuito histórico</strong>
+, para visitar las tumbas de los personajes más sobresalientes de la historia boliviana.
+<strong>Circuito Cultural</strong>
+: que incluye las criptas de los personajes que contribuyeron con el arte y la cultura del País.
+<strong>Circuito Arquitectónico:</strong>
+ que muestra las diferentes tumbas y mausoleos de diversos estilos arquitectónicos.
+ <strong>Dirección</strong>
+ : Entre avenidas Bartolomé Guzmán y Del Cabildo
+ 
+ 
+El Cementerio General de Cochabamba, fundado en 1826, se convierte en un espacio de historia y reflejo de los personajes propios de este valle.
+
+El camposanto se inauguró de manera inusual, según se explica en la investigación de Carlos Lavayén Mendoza, cuando pese a la negativa del vicario Gerónimo de Cardona, el entonces presidente departamental Miguel María de Aguirre acudió a otro sacerdote (se dice que al “cura Oquendo” que participó de la emancipación en 1810) para la bendición. Se inauguró con el entierro de varios cadáveres que los pobladores trasladaron desde los templos. En esos años la ubicación detrás la colina de San Sebastián era la parte extrema de la ciudad.
+
+Entre las criptas más antiguas de personajes notables se encuentra la del escritor Nataniel Aguirre, que murió en 1888. En los sitios destinados a los personajes honoríficos destacan ex presidentes de Bolivia, científicos botánicos, autoridades municipales, universitarias y músicos folkloristas, entre otros.
+
+
+Entre los no conocidos hay criptas y nichos abandonados, enterrados a principios de 1900. En sus lápidas se identifican con apellidos como Pont, Poitevin y otros extranjeros que vivieron en Cochabamba.
+
+
+﻿Características.
+
+1. Puerta de ingreso
+
+Construida con el material todavía servible de la segunda portada del paseo de El Prado que fue derribada en 1927.
+
+
+2. Soldados
+
+Sus fotografías en un mosaico del mausoleo de la Asociación de Mutilados e Inválidos de la Campaña del Chaco.
+
+
+3. “Almas olvidadas”
+
+Dicen que conceden milagros.
+
+
+4. Nicho antiguo
+
+Un cuerpo enterrado en 1908, ahora abandonado.
+
+
+5. Familia Salamanca
+
+Ahí están los restos de Sara Ugarte de Salamanca, impulsora del monumento a las Heroínas de la Coronilla.
