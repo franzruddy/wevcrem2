@@ -26,3 +26,5 @@ Route::get('/webcem/servicios',[MenuController::class,'servicios']);
 
 
 
+Auth::routes();
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

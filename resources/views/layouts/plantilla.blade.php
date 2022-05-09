@@ -5,12 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+    <!-- Styles -->
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">    
     <link rel="stylesheet" href=" {{asset('lib/estilos.css')}}">
     
 
     <script src="https://kit.fontawesome.com/d41ce36db8.js" crossorigin="anonymous"></script>
 
 
+    <!-- Scripts -->
+    <script src="{{ asset('js/app.js') }}" defer></script>
     <script src=" {{asset('lib/estilosapp.js')}} "></script>
 
 
