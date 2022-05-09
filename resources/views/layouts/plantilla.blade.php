@@ -11,7 +11,7 @@
     <script src="https://kit.fontawesome.com/d41ce36db8.js" crossorigin="anonymous"></script>
 
 
-    <script src=" {{asset('lib/js/estilosapp')}} "></script>
+    <script src=" {{asset('lib/estilosapp.js')}} "></script>
 
 
     <title>Document</title>
@@ -23,7 +23,7 @@
     <!--Header-->
     <header>
         <nav>
-            <label class="logo1"><img src=" {{asset('img/logo2.png')}} " alt=""> </label>
+            <label class="logo1"><img class="imgen1" src=" {{asset('img/logo2.png')}} " alt=""> </label>
         </nav>
         <nav class="menu">
             <label class="logo">Web Cementerio</label>
