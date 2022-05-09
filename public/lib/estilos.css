@@ -35,6 +35,7 @@ body{
 }
 .menu_items li {
     border-radius: 3px;
+    text-transform: uppercase;
     margin: 0 6px;
 }
 .menu_items li a {
@@ -42,7 +43,7 @@ body{
     text-decoration: none;
     font-size: 18px;
     display: block;
-    text-transform: uppercase;
+
     color: #fff;    
 }
 .menu_items li:hover, li.active {
@@ -60,6 +61,23 @@ body{
 ul.show {
     top: 65px;
 }
+.logo1 {
+    width: auto;
+    height: 80px;  
+    background-color: #c7eaec;  
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.imgen1{
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
 @media screen and (max-width: 952px){
     .logo{
         font-size: 30px;
